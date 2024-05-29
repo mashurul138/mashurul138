@@ -8,3 +8,4 @@ Living: Dhaka, Bangladesh
 
 ### About Me
 
+currently I am a student of CSE at UIU.
